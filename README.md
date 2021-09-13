@@ -1,2 +1,3 @@
-# jenkins-fargate-kcdc-2021-jenkins-library
-Jenkins Library for KCDC Presentation
+# Jenkins Library for KCDC 2021 Presentation
+
+https://github.com/Trility/jenkins-fargate-kcdc-2021
